@@ -27,9 +27,10 @@ set expandtab
 "set noshowmode " Hide the default mode text (e.g. -- INSERT -- below the statusline)
 
 "pathogen
+" syntax on
+" filetype plugin indent on
 execute pathogen#infect()
-syntax on
-filetype plugin indent on
+call pathogen#helptags()
 
 "########################### solarized ####################################################
 syntax enable
@@ -41,5 +42,4 @@ colorscheme solarized
 """"""""""""""""""""short cut
 nmap <F8> :TagbarToggle<CR>
 nmap <F7> :NERDTreeToggle<CR>
-
 
