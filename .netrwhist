@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/wx6g13/coursework/LISP'
+let g:netrw_dirhist_2='/home/wx6g13/coursework/NETWORK/cw2'
+let g:netrw_dirhist_3='/home/wx6g13/local/tomcat7'
+let g:netrw_dirhist_4='/home/wx6g13/local/tomcat7/conf/Catalina/localhost'
+let g:netrw_dirhist_5='/home/wx6g13/local/tomcat7/conf/Catalina'
+let g:netrw_dirhist_6='/home/wx6g13/local/tomcat7/conf'
+let g:netrw_dirhist_7='/home/wx6g13/local/tomcat7'
+let g:netrw_dirhist_8='/home/wx6g13/local/tomcat7/webapps/stutrade'
+let g:netrw_dirhist_9='/home/wx6g13/local/lib/python2.7/site-packages/powerline_status-2.3.dev9999-py2.7.egg-info'
