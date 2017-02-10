@@ -1,10 +1,7 @@
 "general
-set tabstop=4
-set shiftwidth=4
-set expandtab
 set cursorline
 set cursorcolumn
-set number
+set rnu 
 
 "########################### pathogen ##########################################
 " syntax on
@@ -48,3 +45,5 @@ nmap <leader>p :CtrlP<CR>
 autocmd FileType c nmap <leader>r :make<CR>
 autocmd FileType java nmap <leader>r :!ant<CR>
 let g:EasyMotion_leader_key = '<Leader>' 
+
+
